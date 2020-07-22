@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: July 21 Pandemic-Year@Covid-19_Pakistan, Tuesday
 
 **Today's Progress**: I've gone through many exercises of HTML and HTML5 on FreeCodeCamp.
 
@@ -8,4 +8,15 @@
 
 **Link(s) to work**
 1. [Start from Beggining](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+
+
+### Day 2: July 22, Wednesday
+
+**Today's Progress**: Completed Basic CSS with lot of fun with little struggle on FreeCodeCamp.
+
+**Thoughts** Till noon, I bow down to stop because of family-work at home, but than managed at the very end and Completed the CSS BAsics.
+
+**Link(s) to work**
+1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
