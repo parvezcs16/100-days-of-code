@@ -20,3 +20,14 @@
 **Link(s) to work**
 1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
+
+
+
+### Day 3: July 23, Thursday
+
+**Today's Progress**: Completed 38% of Learn Applied Visual Desig with lot of struggle and  little fun on FreeCodeCamp.
+
+**Thoughts** Very down, while started I thought will complete in 2hrs but have to my course Assignment so whatever I done is 38%.
+
+**Link(s) to work**
+1. [Learn Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets)
