@@ -30,4 +30,14 @@
 **Thoughts** Very down, while started I thought will complete in 2hrs but have to my course Assignment so whatever I done is 38%.
 
 **Link(s) to work**
-1. [Learn Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets)
+1. [Learn Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design)
+
+
+### Day 4: July 24, Friday
+
+**Today's Progress**: Completed 27% of Applied Accessibility with little struggle and  little fun on FreeCodeCamp.
+
+**Thoughts** Very late started, But thought in mind to get previous to 100% and wherever next take Me so it's 27% for Today of new Topic.
+
+**Link(s) to work**
+1. [Applied Accessibility ](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility)
