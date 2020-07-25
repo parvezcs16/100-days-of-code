@@ -41,3 +41,14 @@
 
 **Link(s) to work**
 1. [Applied Accessibility ](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility)
+
+
+
+### Day 5: July 25, Saturday
+
+**Today's Progress**: Completed 100% of Applied Accessibility in just an hour.
+
+**Thoughts** Topic isn't so interesting but have Learned some new keywords for input and first time audio tag inserted and listened the audio which is as simple as HTML5.
+
+**Link(s) to work**
+1. [Applied Accessibility ](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility)
