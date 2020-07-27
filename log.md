@@ -62,3 +62,15 @@
 
 **Link(s) to work**
 1. [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles)
+
+
+
+### Day 7: July 27, Monday
+
+**Today's Progress**: Completed 100% of CSS-Flex in just an hour.
+
+**Thoughts**: Not ready but when started here is the progress
+
+**Link(s) to work**
+1. [CSS-Flex@Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox)
+
