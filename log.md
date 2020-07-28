@@ -74,3 +74,14 @@
 **Link(s) to work**
 1. [CSS-Flex@Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox)
 
+
+
+### Day 8: July 28, Tuesday
+
+**Today's Progress**: Completed 2/3 of CSS-Grid in just an hour.
+
+**Thoughts**: Not ready because of Exam but in an hour did above progress.
+
+**Link(s) to work**
+1. [CSS-Grid@Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
+
