@@ -85,3 +85,14 @@
 **Link(s) to work**
 1. [CSS-Grid@Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
+
+
+### Day 9: July 29, Wednesday
+
+**Today's Progress**: Completed 100% of CSS-Grid in just an hour.
+
+**Thoughts**: Another day of Exam but in an hour of struggle completed  CSS-Grid.
+
+**Link(s) to work**
+1. [CSS-Grid@Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
+
