@@ -96,3 +96,28 @@
 **Link(s) to work**
 1. [CSS-Grid@Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
+
+
+
+
+### Day 10: July 30, Thursday
+
+**Today's Progress**: Completed Hypothesis Testing using Python Language in just an hour.
+
+**Thoughts**: Unpredictable.
+
+**Link(s) to work**
+1. [Hypothesis Testing](https://github.com/parvezcs16/Coursera-Courses/blob/master/Probability%20and%20Statistics:%20To%20p%20or%20not%20to%20p%3F/Assignments/Hypothsis%20Testing.ipynb)
+
+
+
+
+### Day 9: July 29, Friday
+
+**Today's Progress**: Completed Mean Median, Variance, and Standard Deviation Findings in Python in just an hour.
+
+**Thoughts**: Another day of Unprdiction.
+
+**Link(s) to work**
+1. [Mean Median](https://github.com/parvezcs16/Coursera-Courses/blob/master/Probability%20and%20Statistics:%20To%20p%20or%20not%20to%20p%3F/Assignments/MeanMedian.ipynb)
+
