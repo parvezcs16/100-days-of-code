@@ -112,7 +112,7 @@
 
 
 
-### Day 9: July 29, Friday
+### Day 11: July 31, Friday
 
 **Today's Progress**: Completed Mean Median, Variance, and Standard Deviation Findings in Python in just an hour.
 
